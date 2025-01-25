@@ -1,0 +1,42 @@
+ody{
+    background-color: rgb(2, 20, 20);
+    color: white;
+    text-align: center;
+}
+/* .main{
+    background-color:rgb(233, 228, 228);
+    width: 400px;
+    height: 550px;
+    border: 2px solid gold;
+} */
+.box1{
+    width: 180px;
+    height: 40px;
+    background-color: rgb(232, 235, 237);
+    position: relative;
+    top: -20px;
+    color: rgb(61, 14, 234);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border-style: inset;
+    border-style: outset;
+    
+}
+
+.box3{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: -50px;
+    border: 4px ;
+    border-style: inset;
+    border-style: outset;
+}
+/* #NameElement{
+    position: relative;
+    left: 90px;
+}
+#rollnumElement{
+    position: relative;
+    left: 90px;
+} */
